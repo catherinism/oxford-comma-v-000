@@ -6,9 +6,9 @@ if array.join do |fruit|
 
 end
 
-  end
 
-elsif 
+
+elsif
    array.join(" and ") do |fruit|
 end
 
