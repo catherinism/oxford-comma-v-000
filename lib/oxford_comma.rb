@@ -11,6 +11,7 @@ elsif array.length == 2
 
 else array.length == 3
   return array.join(", ") do |fruit| fruit[]-2] << (and)
+  end
 
 end
 
