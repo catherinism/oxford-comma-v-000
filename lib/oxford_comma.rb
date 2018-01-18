@@ -9,9 +9,6 @@ if array.length == 1
 end
 
 elsif array.length == 2
-  array.join(" and ") 
-
-
-
+  array.join(" and ")
 
 end
