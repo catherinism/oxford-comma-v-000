@@ -2,11 +2,10 @@
 
 def oxford_comma(array)
 
-if array.join { |fruit|  }
+if array.length == 1
+  array.join do |fruit|
 
-when array.join(" and ") { |fruit|  }
+  end
 
-when array.join(" , ") { |fruit|  }
 
-end
 end
