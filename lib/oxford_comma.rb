@@ -9,7 +9,7 @@ end
   end
 
 else
-   array[0, 1].join(" and ") do |fruit|
+   array.join(" and ") do |fruit|
 end
 
 
