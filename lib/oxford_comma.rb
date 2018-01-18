@@ -7,7 +7,7 @@ if array.length == 1
 
 
 end
-
+end
 elsif array.length == 2
   array.join(" and ") do |fruit|
 
