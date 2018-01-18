@@ -8,7 +8,8 @@ end
 
   end
 
-else array.join(" and ") do |fruit|
+elsif
+   array.join(" and ") do |fruit|
 end
 
 
