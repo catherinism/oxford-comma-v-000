@@ -15,7 +15,7 @@ end
 else
 
   array.join(", ") do |fruit|
-      fruit.last << ("and")
+    
 end
 
 
