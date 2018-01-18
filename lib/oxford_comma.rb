@@ -1,6 +1,6 @@
 
 
-case oxford_comma(array)
+define oxford_comma(array)
 
 when array.join { |fruit|  }
 
