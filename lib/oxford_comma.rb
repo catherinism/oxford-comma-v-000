@@ -7,7 +7,6 @@ end
 
 elsif array.join(" and ") { |fruit|  }
 
-end
 
 else array.join(" , ") { |fruit|  }
 end
