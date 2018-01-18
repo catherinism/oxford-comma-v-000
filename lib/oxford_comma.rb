@@ -14,6 +14,6 @@ else array.length == 3
 
 else array == 4
   array.sort_by {|fruit| x.length}
-
+end
 
 end
