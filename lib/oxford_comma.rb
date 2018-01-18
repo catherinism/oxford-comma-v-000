@@ -12,6 +12,6 @@ else array.length == 2
   array.join(" and ") do |fruit|
 
   end
-
+end
 
 end
