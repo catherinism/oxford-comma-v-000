@@ -8,5 +8,5 @@ when array.join(" and ") { |fruit|  }
 
 when array.join(" , ") { |fruit|  }
 
-end
+
 end
