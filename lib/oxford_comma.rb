@@ -9,6 +9,6 @@ if array.length == 1
 else array.length == 2
   return array.join(" and ")
 
-
+end
 
 end
