@@ -6,7 +6,7 @@ when array.join { |fruit|  }
 
 when array.join(" and ") { |fruit|  }
 
-else array.join(" , ") { |fruit|  }
+when array.join(" , ") { |fruit|  }
 
 end
 end
