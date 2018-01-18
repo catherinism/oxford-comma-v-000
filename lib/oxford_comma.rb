@@ -6,6 +6,6 @@ if array.join { |fruit|  }
 end
 
 else array.join(" and ") { |fruit|  }
-end
+
 
 end
