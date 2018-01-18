@@ -2,7 +2,7 @@
 
 def oxford_comma(array)
 
-if array.join do |fruit|
+if array.join[1, 2] do |fruit|
 
 end
 
