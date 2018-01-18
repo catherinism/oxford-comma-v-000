@@ -15,7 +15,7 @@ end
 else
   array.join(", ") do |fruit|
 
-end
+
 end
 
 end
