@@ -6,7 +6,7 @@ if array.length == 1
   return array.join
 end
 
-else array.length == 2
+elsif array.length == 2
   array.join(" and ")
 
 end
