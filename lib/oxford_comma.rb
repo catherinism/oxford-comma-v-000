@@ -8,5 +8,5 @@ elsif array.join(" and ") { |fruit|  }
 
 else array.join(" , ") { |fruit|  }
 
-
+end
 end
