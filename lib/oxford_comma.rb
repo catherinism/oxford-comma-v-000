@@ -11,11 +11,6 @@ end
 else
    array.join(" and ") do |fruit|
 end
-
-else
-
-  array.join(", ") do |fruit|
-      fruit.last << ("and")
 end
 
 
