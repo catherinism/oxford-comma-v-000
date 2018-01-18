@@ -12,6 +12,6 @@ elsif array.length == 2
 else array.length == 3
   return "#{array[0]}, #{array[1]}, and #{array[2]}"
 
-else array.sort_by {|x| x.length}
+else array.sort_by {|fruit| x.length}
 
 end
