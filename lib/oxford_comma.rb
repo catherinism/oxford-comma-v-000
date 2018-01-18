@@ -12,7 +12,7 @@ elsif array.length == 2
 elsif array.length == 3
   return "#{array[0]}, #{array[1]}, and #{array[2]}"
 
-elsif array.length == 4
+else array.length == 4
   return "#{array[0]}, #{array[1]}, #{array[2]}, and #{array[3]}"
 
 end
