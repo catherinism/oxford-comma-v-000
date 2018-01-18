@@ -1,6 +1,6 @@
 
 
-define oxford_comma(array)
+def oxford_comma(array)
 
 when array.join { |fruit|  }
 
