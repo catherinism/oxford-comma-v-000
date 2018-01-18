@@ -13,7 +13,7 @@ elsif array.length == 3
   return "#{array[0]}, #{array[1]}, and #{array[2]}"
 
 else array.length == 4
-  return "#{array[0]}, #{array[1]}, #{array[2]}, and #{array[3]}"
+  return "#{array[0]}, #{array[1]}, #{array[2]}, #{array[3]}, and #{array[4]}"
 
 end
 
