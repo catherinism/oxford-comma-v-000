@@ -15,6 +15,7 @@ elsif array.length == 2
 
 else array.length == 3
   array.join(" , ") do |fruit|
+  end
 
 
 
