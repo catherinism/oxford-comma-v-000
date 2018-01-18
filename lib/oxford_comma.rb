@@ -13,8 +13,5 @@ elsif array.length == 2
 
   end
 
-else array.length == 3
-  array.join(" , ") do |fruit|
-end
 
 end
